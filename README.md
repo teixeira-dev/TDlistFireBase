@@ -35,3 +35,8 @@ Aplicativo Android de lista de tarefas feito com Kotlin, Jetpack Compose e Mater
 
 - Navegação
     - Rotas organizadas por feature, com suporte a parâmetros (ex.: edição por id)
+ 
+## Owners:
+
+- Marcelo Gonçalves Alves
+- Gustavo Antônio Teixeira de Matos
